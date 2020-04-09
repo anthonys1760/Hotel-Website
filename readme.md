@@ -1,0 +1,12 @@
+# Hotel BT
+ A Hotel website created using HTML & CSS.
+ ![title-pic](hotelbt.png)
+ This is a Hotel Website achieved using HTML and CSS. It features a Home, About, and Contact page and displays a variety of services for potential customers.
+ 
+## Steps to execute this calculator:
+- Download the entire code 
+- Open up the index.html.
+
+## Technologies used: 
+- HTML [Structure]
+- CSS [style/Presentation]
