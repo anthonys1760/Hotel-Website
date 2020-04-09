@@ -12,6 +12,7 @@
 - HTML [Structure]
 - CSS [style/Presentation]
 <hr>
+
 # Full Site View
 
 ![title-pic](hotelbt.png)
