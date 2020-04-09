@@ -222,7 +222,7 @@ p {
 /* Testimonials */
 #testimonials {
     height: 100%;
-    background: url('../img/test-bg.jpg') no-repeat center center/cover;
+    background: url('/img/test-bg.jpg') no-repeat center center/cover;
     padding-top: 100px;
 }
 
@@ -280,4 +280,8 @@ p {
     background: #444;
     color: #fff;
     padding: 20px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 94aad7b6768ac069cbdca340e7d9b661dd572014
