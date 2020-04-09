@@ -6,6 +6,7 @@
 ## Steps to execute this calculator:
 - Download the entire code 
 - Open up the index.html.
+- [View Live Website](https://anthonys1760.github.io/Hotel-Website/.)
 
 ## Technologies used: 
 - HTML [Structure]
