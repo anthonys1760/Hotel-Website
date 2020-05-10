@@ -140,6 +140,11 @@ p {
 #showcase {
     background: url('../img/showcase.jpg') no-repeat center center/cover;
     height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 #showcase .showcase-content {
